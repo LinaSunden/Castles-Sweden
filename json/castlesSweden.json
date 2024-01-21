@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Örebro slott",
+    "buildYear": "1300-talet",
+    "location": {
+    "latitude": 59.274080152534594,
+    "longitude": 15.215453928835768
+    },
+    "img": "/img/orebro_castle.jpg",
+    "url": "https://orebroslott.se/"
+  },
+
+  {
+    "name": "Stjernsund slott",
+    "buildYear": "1798-1801",
+    "location": {
+        "latitude": 58.851798957231075, 
+        "longitude": 14.937499150652862
+    },
+    "img": "/img/stjernsund_castle.jpg",
+    "url": "https://www.visitaskersund.se/gora/kultur/museum/stjernsunds-slott"
+  },
+
+  {
+    "name": "Boo slott",
+    "buildYear": "1874-1882",
+    "location": {
+    "latitude": 59.04403132105779,
+    "longitude": 15.56004310496692
+    },
+    "img": "/img/boo_castle.jpg",
+    "url": "https://booegendom.se/kultur/Boo-Slott/"
+  }
+]
